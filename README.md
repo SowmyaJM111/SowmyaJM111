@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am Sowmya J M
-working as an application developer at IBM
+
 <!--
 **SowmyaJM111/SowmyaJM111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
